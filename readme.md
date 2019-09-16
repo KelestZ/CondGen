@@ -12,6 +12,7 @@ Please cite the following work if you find the code useful.
 ```
 Contact: Peiye Zhuang (peiye@illinois.edu), Carl Yang (yangji9181@gmail.com)
 
+
 ![Results](https://github.com/KelestZ/GVGAN/blob/master/misc/gvgan-new1.png)
 
 
