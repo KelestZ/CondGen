@@ -4,7 +4,7 @@ This is a pytorch implementation of our paper:
 
 Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li
 
-![Results](https://github.com/KelestZ/GVGAN/blob/master/misc/gvgan-new.png)
+![Results](https://github.com/KelestZ/GVGAN/blob/master/misc/gvgan-new1.png)
 
 
 ## Prerequisites
