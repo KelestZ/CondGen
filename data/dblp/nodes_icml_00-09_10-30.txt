@@ -1,0 +1,98 @@
+Jürgen Forster
+Yasemin Altun
+Peter Haider
+Huayan Wang
+Brian McFee
+Pannagadatta K. Shivaswamy
+Dusan Macho
+Blaine Nelson
+Adam Janin
+Wenyuan Dai
+Adam Woznica
+Umar Syed
+Trinh Minh Tri Do
+Tomer Hertz
+Benyang Tang
+Jihun Hamm
+Maksims Volkovs
+Remco R. Bouckaert
+David Choi
+Ivan Himawan
+Prithviraj Sen
+Yi-Cheng Huang
+Ioannis Tsochantaridis
+John Guiver
+Sergey Kirshner
+Yushi Jing
+Leonid Peshkin
+Alexander Zien
+Nathan D. Ratliff
+Aaron D'Souza
+Sriharsha Veeramachaneni
+Margherita Berardi
+Alfred Dielmann
+Jo-Anne Ting
+Roberto Esposito
+Istvan Szita
+Jeremy Kubica
+Agnes Lisowska
+Manik Varma
+Ivona Bezáková
+Weiqun Xu
+Galen Andrew
+Michael R. James
+Klaus Brinker
+Sajid M. Siddiqi
+Chun-Nam John Yu
+Pierre Wellner
+Benjamin Taskar
+Takaki Makino
+Andreas Argyriou
+Zhe Cao
+Fei Zheng
+Risi Kondor
+Hieu Tat Nguyen
+Zhongqiang Huang
+Marie Szafranski
+Lilyana Mihalkova
+Pengcheng Wu
+Pei-Yun Hsueh
+Stanley Kok
+Pierre Mahé
+Aharon Bar-Hillel
+Su-In Lee
+Michael C. Burl
+Jonathan Baxter
+Britton Wolfe
+Simon J. Perkins
+Jinfeng Zhuang
+Gideon S. Mann
+Sarah Osentoski
+Nataliya Sokolovska
+Malcolm J. A. Strens
+Charles Parker
+Fen Xia
+Aaron Wilson
+Dennis DeCoste
+Pinar Donmez
+Simon Tucker
+Marc Al-Hames
+Mark Herbster
+Robert B. Gramacy
+Rajat Raina
+Anita H. M. Cremers
+Seung-Jean Kim
+Vojtěch Franc
+Harm op den Akker
+Jeffrey Johns
+Matthias Zimmermann
+Jean Carletta
+Jonathan G. Fiscus
+Ion Muslea
+Mikhail Bilenko
+Patrick Ehlen
+Steffen Bickel
+Mark A. Hall
+Erick Delage
+Alexander L. Strehl
+Bryan Catanzaro

@@ -1,0 +1,194 @@
+Fabian Abel
+Shuming Shi
+Edgar Meij
+Ronny Lempel
+Yi Ma
+Valentin Jijkoun
+Emine Yilmaz
+Vana Kalogeraki
+Ben He
+Sebastian Michel
+Doron Rotem
+Nick Koudas
+Benjamin Piwowarski
+Sujith Ravi
+Leif Azzopardi
+Xiang Lian
+Luis Gravano
+Azadeh Shakery
+Claudia Hauff
+Georgios Paltoglou
+Hao Ma
+Pável Calado
+Jiaheng Lu
+Petteri Nurmi
+Marius Pasca
+Gilad Mishne
+Lei Wu
+Xiaoyan Li
+Hwanjo Yu
+Ali Dasdan
+Chen Chen
+Ming Zhong
+William Webber
+Bin Wu
+Yangqiu Song
+Kevyn Collins-Thompson
+David Grangier
+Jure Leskovec
+Dimitri Theodoratos
+Anand Ranganathan
+Amit Anil Nanavati
+Ning Liu
+Tomonari Masada
+Qiaozhu Mei
+Karl Aberer
+David E. Losada
+Shixia Liu
+Bo Long
+Gui-Rong Xue
+Daniel Barbará
+Rayid Ghani
+Jin Zhang
+Ömer Eğecioğlu
+Yi-Leh Wu
+Olivier Chapelle
+Massimo Melucci
+Linyuan Lü
+Wei Zhang
+Wei Dong
+Ranieri Baraglia
+Jianliang Xu
+Wookey Lee
+Bin Liu
+Falk Scholer
+Rosie Jones
+Tetsuya Sakai
+Paolo Boldi
+Ana Gabriela Maguitman
+Li Ding
+Alberto Lavelli
+Luo Si
+Xin Xin
+Adriano Veloso
+Bing Bai
+Chia-Jung Lee
+James Allan
+Jing He
+Nan Ma
+Hua Yan
+Jianguo Lu
+Youngja Park
+Donald Metzler
+Changhu Wang
+Ying Zhao
+Xiaojun Wan
+Hang Li
+Yun Zhou
+Kamesh Madduri
+Dmitri Roussinov
+Peter Bailey
+Andrei Z. Broder
+Robert West
+Krisztian Balog
+Jeremy Pickens
+Umit Y. Ogras
+Gang Luo
+Jie Lu
+Chirag Shah
+Victor Lavrenko
+Ryen W. White
+Fernando Diaz
+Songbo Tan
+Kai-Uwe Sattler
+Reynold Cheng
+Leonardo C. da Rocha
+Ning Jin
+Craig Macdonald
+Yang Song
+Keke Chen
+Hongyuan Zha
+Sara Cohen
+Xin Liu
+Yue Xu
+Dragomir R. Radev
+Bo Wang
+Jaap Kamps
+Xuanhui Wang
+Krysta M. Svore
+Pavel Serdyukov
+Sourav S. Bhowmick
+Charles L. A. Clarke
+Jeff Huang
+Doug Downey
+Sam Yuan Sung
+David Fernandes
+Furu Wei
+Kun Lung Wu
+Stephen E. Robertson
+Takao Miura
+Dingding Wang
+Xiaoli Li
+Victor Muntés-Mulero
+Jun Wang
+Javed A. Aslam
+Carlos Ordonez
+Christos Doulkeridis
+Marc Najork
+Peter D. Bruza
+Xin Cao
+Sheng Guo
+Hugo Zaragoza
+Lipyeow Lim
+Li Ma
+Deepak Agarwal
+Huanhuan Cao
+Shuang Liu
+Shenghua Bao
+Qiang Huang
+Yuanhua Lv
+Yuefeng Li
+Qin Lv
+Jing Bai
+Rada Mihalcea
+Wei Dai
+Jimmy J. Lin
+Katja Hose
+James P. Callan
+Matthew Lease
+Fabrizio Sebastiani
+Ben Carterette
+Tapas Kanungo
+Ping Luo
+Wai Gen Yee
+Gianluca Demartini
+Yuqing Wu
+Francisco M. Couto
+Mark D. Smucker
+Hakan Ferhatosmanoglu
+Guoliang Li
+Ke Sun
+Zaiqing Nie
+Xin Li
+William E. Jones
+Yi Ding
+Ling Ma
+Kang Liu
+Jinyoung Kim
+Anton Leuski
+Bin He
+Jaime Arguello
+Andrea Esuli
+Aris Anagnostopoulos
+Bin Cao
+Ziv Bar-Yossef
+Hui Li
+David Carmel
+Anoop Singhal
+Takahiro Hara
+Jiun-Long Huang
+ChengXiang Zhai
+Filip Radlinski
+Aleksander Kolcz
+Dou Shen
+Jie Peng

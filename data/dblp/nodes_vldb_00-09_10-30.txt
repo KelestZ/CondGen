@@ -1,0 +1,140 @@
+Andrei Arion
+Todd J. Green
+Mingxi Wu
+Chenyun Dai
+Filip Perich
+Colin Meek
+Shirish Tatikonda
+Milenko Petrovic
+George Beskales
+Stavros Harizopoulos
+Yidong Yuan
+Ming Hua
+Sandeep Tata
+Brian Babcock
+James F. Terwilliger
+Hongrae Lee
+Mayank Bawa
+Geert Jan Bex
+Benoit Dageville
+Jorge-Arnulfo Quiané-Ruiz
+Adam J. Storm
+Simonas Saltenis
+Gagan Aggarwal
+Shankar Pal
+Bogdan Alexe
+Erietta Liarou
+Edwin M. Knorr
+Konstantinos Morfonios
+Deepavali Bhagwat
+Yannis Katsis
+Shetal Shah
+Rene Mueller
+Demet Aksoy
+Mark Slaymaker
+Douglas Burdick
+Dengfeng Gao
+Matthias Nicola
+Stefan Krompass
+Kuien Liu
+Hailing Yu
+Lazaros Koromilas
+Alan Halverson
+Hector Gonzalez
+Omar Benjelloun
+Parag Agrawal
+Steven Euijong Whang
+Fei Chiang
+Prithviraj Sen
+Hong Hai Do
+Ymir Vigfusson
+Nikos Sarkas
+Radek Vingralek
+Wanhong Xu
+Hu Cao
+Jiri Schindler
+Ohad Greenshpan
+Ravishankar Ramamurthy
+Prasanna Ganesan
+Daniela Berardi
+Lyublena Antova
+Bijit Hore
+Vibhor Rastogi
+Daniel C. Zilio
+Yasin N. Silva
+Fang Du
+Ioannis Koltsidas
+Mehdi Sharifzadeh
+Wai Kit Wong
+Peixiang Zhao
+Bishwaranjan Bhattacharjee
+Haifeng Jiang
+Changqing Li
+Ashish Kundu
+Richard Kuntschke
+David J. Power
+Eugene Inseok Chong
+Cesar A. Galindo-Legaria
+Georgia Koloniari
+Fabien Duchateau
+Mustafa Canim
+Ahmed Metwally
+Ho Lam Lau
+Véronique Benzaken
+Marcos Antonio Vaz Salles
+Haichuan Shang
+Ioana Stanoi
+John Cieslewicz
+Hai He
+Manish A. Bhide
+Rami Rifaieh
+Sirish Chandrasekaran
+Hoyoung Jeung
+Sudarshan S. Chawathe
+Florian Haftmann
+Moustafa A. Hammad
+Hyun Jin Moon
+Christophe Bobineau
+Marcin Zukowski
+Thomas Willhalm
+Qun Ni
+Amr El-Helw
+Amélie Marian
+Meikel Poess
+Karl Schnaitter
+Songyun Duan
+Anand Rajaraman
+Ela Hunt
+Gokul Soundararajan
+Christof Bornhövd
+Qian Wan
+Jinchuan Chen
+Sergej Zerr
+Ashish Kamra
+Cui Yu
+SungRan Cho
+Loreto Bravo
+Nikolaus Augsten
+Lefteris Sidirourgos
+Jens-Peter Dittrich
+Xiaogang Li
+Helena Galhardas
+Peter Muth
+Dimitris Tsirogiannis
+Sang Kyun Cha
+Rimma V. Nehme
+David Konopnicki
+Ling Hu
+Stelios Paparizos
+Shawn R. Jeffery
+Liang Huai Yang
+Sam Lightstone
+Mehmet Altinel
+Songting Chen
+Mohammad R. Kolahdouzan
+Jiying Wang
+Nilesh Bansal
+Flavio Rizzolo
+Sailesh Krishnamurthy
+Christoph T. Koch
+German Shegalov

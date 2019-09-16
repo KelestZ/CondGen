@@ -1,0 +1,193 @@
+Noam Slonim
+Sepp Hochreiter
+Gert Cauwenberghs
+Peter Sollich
+Sam T. Roweis
+Te-Won Lee
+Michael Cohen
+Andrew G. Barto
+Barak A. Pearlmutter
+Eric A. Hansen
+Lucas C. Parra
+Wulfram Gerstner
+Peter Stone
+Shun-ichi Amari
+Sayandev Mukherjee
+Joachim M. Buhmann
+Satinder P. Singh
+Lei Xu
+Yoram Singer
+Xavier Boyen
+Nuria Oliver
+Yi Li
+Nir Friedman
+Timothy K. Horiuchi
+Tony Jebara
+Jong-Hoon Oh
+Arthur Flexer
+Sumio Watanabe
+Naonori Ueda
+Michael I. Jordan
+Nuno Vasconcelos
+Geoffrey E. Hinton
+David Barber
+Richard S. Zemel
+Trevor Hastie
+Alexander J. Smola
+Bhaskar DasGupta
+Benjamin Van Roy
+Marina Meila
+Peter Auer
+Patrick van der Smagt
+Thomas Hofmann
+Ricardo Vigário
+L. F. Abbott
+Patrice Y. Simard
+Christopher G. Atkeson
+Toshiyuki Tanaka
+Visakan Kadirkamanathan
+David P. Helmbold
+Gunnar Rätsch
+Dana Ron
+Hava T. Siegelmann
+Michael E. Hasselmo
+Eero P. Simoncelli
+Olivier Chapelle
+Volker Tresp
+Melanie Mitchell
+Masashi Sugiyama
+Yair Weiss
+Michael C. Mozer
+Todd K. Leen
+David J. Miller
+Yoshua Bengio
+Matthew N. Dailey
+Joshua B. Tenenbaum
+Sebastian Thrun
+Ying Zhao
+Xin Wang
+Anthony Kuh
+Jonathan Bachrach
+Ernst Niebur
+Jeff G. Schneider
+Ran El-Yaniv
+Christopher J. C. Burges
+Daphna Weinshall
+Kevin P. Murphy
+Richard S. Sutton
+Garrison W. Cottrell
+Rajesh P. N. Rao
+André van Schaik
+Paul A. Viola
+Isabelle Guyon
+Holger Schwenk
+Trevor Darrell
+Chuanyi Ji
+Kenji Doya
+Gerhard Rigoll
+Shumeet Baluja
+David J. C. MacKay
+Charles W. Anderson
+Andreas Stolcke
+Wolfgang Maass
+Christoph Bregler
+Hagai Attias
+Bradley A. Minch
+Kenji Fukumizu
+Manfred Opper
+Noboru Murata
+Miguel Á. Carreira-Perpiñán
+Andrew M. Finch
+Alan F. Murray
+Alessandro Sperduti
+Nebojsa Jojic
+Nello Cristianini
+Tom Heskes
+Thore Graepel
+Csaba Szepesvári
+Steve Lawrence
+Xiaohui Xie
+Paul W. Goldberg
+Nicol N. Schraudolph
+John Platt
+Vladimir Vapnik
+Babak Hassibi
+Tsung-Nan Lin
+Ronald Parr
+Tommi S. Jaakkola
+Doina Precup
+Yoav Freund
+Lutz Prechelt
+Bradley C. Love
+Aapo Hyvärinen
+David H. Wolpert
+Daniel Willett
+Mark Craven
+Matthias W. Seeger
+Stefan Schaal
+Jaakko Hollmén
+Yong Liu
+Janet Wiles
+Adam Kowalczyk
+Liqing Zhang
+William W. Cohen
+Ralph Etienne-Cummings
+Javier R. Movellan
+Lawrence K. Saul
+Hervé Bourlard
+Jan Larsen
+Gerald Tesauro
+Corinna Cortes
+Padhraic Smyth
+D. Horn
+Andrew W. Moore
+Zehra Cataltepe
+Daniel D. Lee
+John Shawe-Taylor
+William T. Freeman
+Ari Juels
+Dedre Gentner
+Hilbert J. Kappen
+Peter Marbach
+Yaser S. Abu-Mostafa
+Peter L. Bartlett
+Yoichi Hayashi
+Kristin P. Bennett
+Pierre Baldi
+Peter Tino
+Hayit Greenspan
+Ron Meir
+Marian Stewart Bartlett
+Bernhard Schölkopf
+Charles Lee Isbell
+Brendan J. Frey
+Rich Caruana
+Michael J. Kearns
+Rainer Goebel
+Christopher M. Bishop
+Christopher K. I. Williams
+Anders Krogh
+Carl Edward Rasmussen
+H. Sebastian Seung
+Tadashi Shibata
+Satoshi Suzuki
+Léon Bottou
+Geoffrey J. Gordon
+Thomas G. Dietterich
+Soo-Young Lee
+Scott Makeig
+Peter Dayan
+Steve Renals
+Tzyy-Ping Jung
+Benoit Huet
+John N. Tsitsiklis
+Michael Schmitt
+Tom M. Mitchell
+Zoubin Ghahramani
+Timothy X. Brown
+Maneesh Sahani
+Nathan Intrator
+Assaf Zeevi
+Pascal Koiran
+Akito Sakurai
+Akira Hayashi

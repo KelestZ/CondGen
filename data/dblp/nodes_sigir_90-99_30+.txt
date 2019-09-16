@@ -1,0 +1,88 @@
+Ellen Riloff
+Keiichiro Hoashi
+Matthias Hemmje
+Joemon M. Jose
+Chris Buckley
+Robert E. Schapire
+Marti A. Hearst
+Fredric C. Gey
+Alistair Moffat
+Fabio Grandi
+Jaana Kekäläinen
+Jian-Yun Nie
+Hinrich Schütze
+Noriko Kando
+Ellen M. Voorhees
+Wai Lam
+Ari Pirkola
+Amanda Spink
+Philippe Mulhem
+David E. Losada
+Yong Zhang
+Mark Sanderson
+Fabio Crestani
+Iadh Ounis
+Karen Sparck Jones
+Tetsuya Sakai
+Andreas Henrich
+James Allan
+Efthimis N. Efthimiadis
+Yiming Yang
+Mounia Lalmas
+Koji Eguchi
+Gregory Grefenstette
+Miguel E. Ruiz
+Ophir Frieder
+William R. Hersh
+Lee-Feng Chien
+David D. Lewis
+Xia Lin
+Dieter Merkl
+Pavlos S. Efraimidis
+K. L. Kwok
+Norbert Fuhr
+Gordon V. Cormack
+Steve Whittaker
+Steve Jones
+Andrew Turpin
+Amit Singhal
+Yuen Hsien Tseng
+W. Bruce Croft
+Kalervo Järvelin
+David Eichmann
+Kathleen R. McKeown
+Anastasios Tombros
+Scott Aaronson
+Susan T. Dumais
+Christian Jacquemin
+Sung Hyon Myaeng
+James C. French
+Ross Wilkinson
+Mandar Mitra
+Stephen E. Robertson
+Bernard J. Jansen
+Peter D. Bruza
+Donna Harman
+Gareth J. F. Jones
+Alan F. Smeaton
+Chris H. Q. Ding
+William W. Cohen
+Scott Henninger
+James P. Callan
+Fabrizio Sebastiani
+Carlo Meghini
+Gene Golovchinsky
+Justin Zobel
+Matthew Chalmers
+Tefko Saracevic
+Giorgio Brajnik
+Peter Schäuble
+Edward A. Fox
+Gerard Salton
+Erik Duval
+Maristella Agosti
+Vijay V. Raghavan
+Peter Ingwersen
+Hwee Tou Ng
+S. K. M. Wong
+Aleksander Kolcz

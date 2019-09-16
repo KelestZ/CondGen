@@ -1,0 +1,76 @@
+Avrim Blum
+Padhraic Smyth
+Richard Nock
+Ming Tan
+Gautam Biswas
+Daphne Koller
+Andrew W. Moore
+Christopher Leckie
+Maja J. Matarić
+Michael J. Pazzani
+Lars Asker
+Robert E. Schapire
+Moninder Singh
+Jing Peng
+Yoram Reich
+Jean-Daniel Zucker
+Jonathan Gratch
+Ashwin Ram
+Tapio Elomaa
+Satinder P. Singh
+Eibe Frank
+Susan Craw
+Lawrence B. Holder
+Marko Robnik-Šikonja
+Claire Cardie
+Justus H. Piater
+Yolanda Gil
+Pat Langley
+Steve Chien
+Ashok K. Goel
+José del R. Millán
+Daniel S. Hirschberg
+David W. Aha
+Claudio Carpineto
+Rich Caruana
+Paul E. Utgoff
+Michael L. Littman
+Kurt VanLehn
+Rey-Long Liu
+William W. Cohen
+Sebastian Thrun
+Luís Torgo
+Russell Greiner
+Michael I. Jordan
+Michael J. Kearns
+Oren Etzioni
+Leslie Pack Kaelbling
+Wei Fan
+Mehran Sahami
+Stephen Muggleton
+Geoffrey J. Gordon
+Carla E. Brodley
+Ido Dagan
+Thomas G. Dietterich
+Igor Kononenko
+Sridhar Mahadevan
+Yoav Freund
+John R. Anderson
+Peter Auer
+Johannes Fürnkranz
+Haym Hirsh
+Douglas H. Fisher
+Mark Craven
+Richard S. Sutton
+John J. Grefenstette
+David D. Lewis
+Claude Sammut
+Ron Kohavi
+Devika Subramanian
+Mieczyslaw M. Kokar
+Steven Minton
+Marco Valtorta
+Craig Boutilier
+Christopher J. Matheus
+John E. Laird
+Jean-Michel Renders

@@ -1,0 +1,179 @@
+Bin Fu
+Giuseppe Di Fatta
+Hans-Peter Kriegel
+Jingjing Wang
+Lu Wang
+Ranga Raju Vatsavai
+Emmanuel Müller
+Junming Shao
+Hsiang-Fu Yu
+Guoqiang Zhong
+Abdullah Mueen
+Julian McAuley
+Xuezhi Wang
+Yan Li
+Peng Zhang
+Pauli Miettinen
+Kang Li
+Hengshu Zhu
+Linli Xu
+Feng Chen
+Aditya Krishna Menon
+Carson Kai-Sang Leung
+Wei Chen
+Jing Feng
+Arthur Flexer
+Yi Chang
+Guan Wang
+Daniel Lowd
+Chen Chen
+Wei Wang
+Chi Wang
+Nikolaj Tatti
+Yu-Ru Lin
+Xiaowei Chen
+Min Du
+Peilin Zhao
+Peng Jiang
+Karthikeyan Natesan Ramamurthy
+Liang Zhao
+Zhengming Ding
+Yan Zhu
+Nicholas Jing Yuan
+Qian Zhang
+Chao Li
+Anastasios Noulas
+Tushar Khot
+Nguyen Xuan Vinh
+Hongfu Liu
+Albrecht Zimmermann
+Yanjie Fu
+Hung T. Nguyen
+Liang Tang
+Zhiang Wu
+Liang Du
+Leon Bobrowski
+Hongzhi Yin
+Nicola Barbieri
+Moninder Singh
+Yu Liu
+Sanguthevar Rajasekaran
+Rui Liu
+Defu Lian
+U Kang
+Yijun Wang
+Chen Zhang
+François Petitjean
+Germain Forestier
+Rui Zhao
+Amit Goyal
+Xiaofei Zhou
+Xinyue Liu
+Lili Jiang
+Ankit Agrawal
+Bing Hu
+B. Aditya Prakash
+Feiping Nie
+Jonas Poelmans
+Girish Keshav Palshikar
+Chuan Zhou
+Huan Zhang
+Pei Yang
+Chuanren Liu
+Fan Jiang
+Tanmoy Chakraborty
+Kun He
+Jun Du
+Hongjian Wang
+Fanhua Shang
+Wei Xiong
+Vu Nguyen
+Liyuan Liu
+Yifan Chen
+Shusaku Tsumoto
+Xiao Fu
+Jingrui He
+Dingqi Yang
+Yi Cui
+Xianchao Zhang
+Yong Zheng
+Lina Yao
+Ye Ding
+Zhe Jiang
+Jiawei Zhang
+Nesreen K. Ahmed
+Chao Wu
+Wei Lu
+Hsun Ping Hsieh
+Jun Huang
+Dayong Wang
+Bo Hu
+Chen Zhu
+Byron C. Wallace
+Paolo Cremonesi
+Shuo Yang
+Ulf Johansson
+Bokai Cao
+Kyomin Jung
+Siddhartha Bhattacharyya
+Yong Ge
+Yao Zhang
+Hao Huang
+Lingfeng Niu
+Decebal Constantin Mocanu
+Lin Liu
+Yuqing Zhu
+Jun Li
+Rong Zhu
+Lan Du
+Dezhong Yao
+Chang-Dong Wang
+Thanawin Rakthanmanon
+Zhengdong Lu
+Peter Christen
+Erich Schubert
+Liang Hu
+Siegfried Nijssen
+Li Zheng
+Danai Koutra
+Qi Liu
+Maitreya Natu
+Ata Kabán
+Buyue Qian
+Xin Jin
+Xu Sun
+Nan Cao
+Zhen Hu
+Tian Guo
+Xiang Cheng
+Xiang Li
+Luca Oneto
+Bo Jin
+Yang Chen
+Yu-Sheng Chen
+Wei Ye
+Xiangnan Kong
+Bin Lu
+Kai Ming Ting
+Akinori Abe
+Bo Wu
+Jing Guo
+Yuan Wang
+Toon Calders
+Shiyu Chang
+Joan Serrà
+Tias Guns
+Xu Chen
+Chen Liu
+Dino Ienco
+Fei Wang
+Lei Shi
+Xiao He
+Michael E. Houle
+Jayaraman J. Thiagarajan
+Francesco Bonchi
+Hanghang Tong
+Bin Li
+Stephan Günnemann
+Aleksandr Y. Aravkin
+Tianyi Zhou

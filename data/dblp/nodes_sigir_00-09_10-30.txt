@@ -1,0 +1,96 @@
+Alain Désilets
+Jeongwoo Ko
+Gu Xu
+Tye Rattenbury
+Gleb Skobeltsyn
+Adam L. Berger
+Holger Bast
+Ron Bekkerman
+Makoto Iwayama
+Yandong Liu
+Einat Minkov
+Mayank Bawa
+Peter G. Anick
+Munirathnam Srikanth
+Monica Rogati
+Klaus Ries
+Gregory Druck
+Henrik Nottelmann
+Somnath Banerjee
+Zhengya Sun
+Ioannis Arapakis
+Xiubo Geng
+Ville T. Turunen
+Jiwoon Jeon
+Kornél G. Markó
+Jinxi Xu
+Leah S. Larkey
+Xiaobing Xue
+John Guiver
+Vo Ngoc Anh
+Shawn R. Wolfe
+Wensi Xi
+Sang Bum Kim
+Douglas Turnbull
+Dogan Can
+Mostafa Keikha
+Jonathan L. Elsas
+Paul Ferguson
+Xuehua Shen
+Bingjun Zhang
+Mohamed Farah
+Linh Thai Nguyen
+Xiaoyong Liu
+Paul Ogilvie
+Giridhar Kumaran
+Siddika Parlak
+Vitor R. Carvalho
+Christian Zimmer
+Laura A. Granka
+Jonathan Mamou
+Hang Cui
+Hema Raghavan
+Anni Coden
+Nicola Stokes
+Huajing Li
+D. Sculley
+Lan Nie
+Shihao Ji
+Yunhua Hu
+Kian Ming Adam Chai
+Ramesh Nallapati
+Loïc Maisonnasse
+Kyung-Soon Lee
+Jinglei Zhao
+Einat Amitay
+Kuo Zhang
+Mengqiu Wang
+Dennis Fetterly
+Allison L. Powell
+Jukka Perkiö
+Kyoung-Soo Han
+Thijs Westerveld
+Pawel Jurczyk
+Lee Wang
+Ming-Hung Hsu
+Hans Friedrich Witschel
+Hyo-Jung Oh
+Ville H. Tuulos
+Rie Kubota Ando
+Changki Lee
+Steven M. Beitzel
+Xiaoguang Qi
+Baoli Li
+Georges Dupret
+Matthias Bender
+Sharon McDonald
+Thomas R. Lynam
+Neal Lathia
+Yuting Liu
+Zhicheng Dou
+Guihong Cao
+Vishwa Vinay
+Brian Amento
+David Lillis
+J. Scott McCarley
+Nadav Eiron

@@ -1,0 +1,80 @@
+Falk Brauer
+James J. Gardner
+Paul-Alexandru Chirita
+Moshe Fresko
+Jangwon Seo
+Wenhui Liao
+Chong Long
+Bhuvan Bamba
+Leah S. Larkey
+Hao-Ping Hung
+Li Zhuang
+Dongmei Jia
+Stefan Büttcher
+Derrick Coetzee
+Ding Zhou
+Eduarda Mendes Rodrigues
+Oisín Boydell
+Pawel Jurczyk
+Paavo Arvola
+Rebecca Cathey
+Benjamin Rosenfeld
+Hongliang Fei
+Linhong Zhu
+Maryam Karimzadehgan
+Lixin Shi
+Chun Tang
+Kerstin Bischoff
+Lilian Harada
+Nicholas Lester
+Le Zhao
+James W. Cooper
+Bodo Billerbeck
+Bingjun Sun
+Qiankun Zhao
+Eric C. Jensen
+Shui-Lung Chuang
+Munirathnam Srikanth
+Xuehua Shen
+Beverly Yang
+Xiaoguang Qi
+Andrew Hickl
+Eric J. Glover
+Marina Barsky
+Timothy G. Armstrong
+Zheng-Yu Niu
+Chih-Chin Liu
+Lingpeng Yang
+Asad B. Sayeed
+Abhishek Mukherji
+Susan Price
+Sarah Zelikovitz
+Changzhou Wang
+Hyun Duk Kim
+Chang-Hung Lee
+Jack G. Conrad
+Thomas R. Lynam
+David N. Milne
+Changqing Li
+Viet Ha-Thuc
+David Liben-Nowell
+Zhicheng Dou
+Caimei Lu
+Desmond Elliott
+Joong Hyuk Chang
+Ramakrishna Varadarajan
+Dongmei Ren
+Prasan Roy
+Xiaoyong Liu
+Ramesh Nallapati
+Vuk Ercegovac
+Paul Ogilvie
+Fabien Duchateau
+Flavio Figueiredo
+Like Gao
+Xianpei Han
+Kamal Nigam
+Jiwoon Jeon
+Stefanos Souldatos
+Einat Amitay
+Cai-Nicolas Ziegler
