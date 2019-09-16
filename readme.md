@@ -1,8 +1,16 @@
-# GVGANs
-This is a pytorch implementation of our paper:
-[Conditional Structure Generation through Graph Variational Generative Adversarial Nets](https://nips.cc/Conferences/2019/AcceptedPapersInitial), Neural Information Processing Systems (NeurIPS'19)
+## Implementation of *CondGen*, NeurIPS 2019.
 
-Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li
+Please cite the following work if you find the code useful.
+
+```
+@inproceedings{yang2018meta,
+	Author = {Yang, Carl and Zhuang, Peiye and Shi, Wenhan and Luu, Alan and Pan, Li},
+	Booktitle = {NeurIPS},
+	Title = {Conditional structure generation through graph variational generative adversarial nets},
+	Year = {2019}
+}
+```
+Contact: Carl Yang (yangji9181@gmail.com)
 
 ![Results](https://github.com/KelestZ/GVGAN/blob/master/misc/gvgan-new1.png)
 
@@ -13,23 +21,10 @@ Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li
 - Tookits like python-igraph, powerlaw, networkx etc.
 
 ## Data
-We release our [DBLP dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) and [TCGA dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) on Google Drive.
+Our [DBLP dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) and [TCGA dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) are released on Google Drive.
 
 ## Training 
 ```
 python train.py
 ```
 with default setttings in `options.py`.
-
-
-## Citation
-
-If you use this code for your research, please cite our paper:
-```
-@article{gvgans,
-  title={Conditional Structure Generation through Graph Variational Generative Adversarial Nets},
-  author={Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li},
-  journal={Neural Information Processing Systems (NeurIPS)},
-  year={2019}
-}
-```
