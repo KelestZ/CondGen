@@ -10,7 +10,7 @@ Please cite the following work if you find the code useful.
 	Year = {2019}
 }
 ```
-Contact: Carl Yang (yangji9181@gmail.com)
+Contact: Peiye Zhuang (peiye@illinois.edu), Carl Yang (yangji9181@gmail.com)
 
 ![Results](https://github.com/KelestZ/GVGAN/blob/master/misc/gvgan-new1.png)
 
