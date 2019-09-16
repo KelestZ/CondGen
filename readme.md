@@ -10,7 +10,7 @@ Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li
 - Tookits like python-igraph, powerlaw, networkx etc.
 
 ## Data
-We release our [DBLP dataset](https://drive.google.com/drive/folders/1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB?usp=sharing) and [TCGA dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) on Google Drive.
+We release our [DBLP dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) and [TCGA dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) on Google Drive.
 
 ## Training 
 ```
