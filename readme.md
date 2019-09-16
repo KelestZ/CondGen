@@ -14,7 +14,7 @@ We release our [DBLP dataset](https://drive.google.com/open?id=1ngpwK4pqIfl7opYm
 
 ## Training 
 ```
-python main.py
+python train.py
 ```
 with default setttings in `options.py`.
 
