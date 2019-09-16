@@ -3,7 +3,7 @@ This is a pytorch implementation of our paper:
 [Conditional Structure Generation through Graph Variational Generative Adversarial Nets](https://nips.cc/Conferences/2019/AcceptedPapersInitial), Neural Information Processing Systems (NeurIPS'19)
 
 Carl Yang, Peiye Zhuang, Wenhan Shi, Alan Luu, Pan Li
-![Results](https://github.com/KelestZ/GVGAN/blob/master/misc/gvgan-new.tiff)
+![Results](https://github.com/KelestZ/GVGAN/blob/master/misc/gvgan-new.png)
 
 
 ## Prerequisites
