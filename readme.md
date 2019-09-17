@@ -22,7 +22,7 @@ Contact: Peiye Zhuang (peiye@illinois.edu), Carl Yang (yangji9181@gmail.com)
 - Tookits like python-igraph, powerlaw, networkx etc.
 
 ## Data
-Our [DBLP dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) and [TCGA dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) are released on Google Drive.
+Our [DBLP dataset](https://drive.google.com/open?id=1s9hLOEAIL4j63fBpIdm1IldfJCsLhzpB) and [TCGA dataset](https://drive.google.com/open?id=1voorUDkxJc0kzA7AEDCf1Pk4opjCGvXL) are released on Google Drive.
 
 ## Training 
 ```
